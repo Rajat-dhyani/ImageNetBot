@@ -29,8 +29,6 @@ This project uses the following software and Python libraries:
 * [Python 2.7](https://www.python.org/download/releases/2.7/)
 * [NumPy](http://www.numpy.org/)
 * [pandas](http://pandas.pydata.org/)
-* [scikit-learn](http://scikit-learn.org/0.17/install.html) (v0.17)
-* [matplotlib](http://matplotlib.org/)
 * [Tensor-flow](https://www.tensorflow.org)
 * [Jupyter Notebook](http://ipython.org/notebook.html)
 
