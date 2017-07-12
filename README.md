@@ -1,10 +1,13 @@
-# Image Classification
+# Image Net Bot
 *Udacity - Machine learning Nano Degree Program : Project-5*
 
 ## Project Overview
 *This is fifth project in the series of the projects listed in Udacity- Machine Learning Nano Degree Program.*
 
 In this project, I have classified images from the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html). The dataset consists of airplanes, dogs, cats, and other objects. The dataset was first preprocessed, then trained a convolutional neural network on all the samples. I have normalized the images, one-hot encoded the labels, build a convolutional layer, max pool layer, and fully connected layer. 
+
+![Image-Net-Bot](https://github.com/Rajat-dhyani/ImageNetBot/blob/master/RajatDhyani-ImageNetBot.jpg)
+
 
 ## Project Highlights
 *In this project i have applied deep learning techniques to train a model to classify images using convolutional neural network algorithm. I have also learnt how to apply my knowledge of neural networks on real datasets using [TensorFlow](https://www.tensorflow.org/), an open source Deep Learning library created by Google.*
