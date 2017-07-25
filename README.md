@@ -12,6 +12,10 @@ In this project, I have classified images from the [CIFAR-10 dataset](https://ww
 ## Project Highlights
 *In this project i have applied deep learning techniques to train a model to classify images using convolutional neural network algorithm. I have also learnt how to apply my knowledge of neural networks on real datasets using [TensorFlow](https://www.tensorflow.org/), an open source Deep Learning library created by Google.*
 
+**Achievements:**
+* Built an image classification bot using convolutional neural networks to classify images from the CIFAR-10 dataset.
+* Achieved accuracy of 60.42 %.
+
 Things i have learnt by completing this project:
 * How to apply deep learning techniques: Convolutional Neural Network algorithms.
 * How to use tensorflow library.
@@ -25,6 +29,7 @@ Things i have learnt by completing this project:
 * <strong> Project 2 : </strong> *[Charity Donors Prediction](https://github.com/Rajat-dhyani/charity_donors)*
 * <strong> Project 3 : </strong> *[Creating Customer Segments](https://github.com/Rajat-dhyani/creating_customer_segments)*
 * <strong> Project 4 : </strong> *[Smart Cab](https://github.com/Rajat-dhyani/smart-cab)*
+* <strong> Project 6 : </strong> *[Stock Price Predictor](https://github.com/Rajat-dhyani/Stock-Price-Predictor)*
 
 ## Software and Libraries
 This project uses the following software and Python libraries:
